@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kenzabouachik@gmail.com
+	name = Kenza Bouachik
